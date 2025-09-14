@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: test
+  name: true
   description: Retrieve artist details
 spec:
   type: openapi
