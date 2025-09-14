@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: true
+  name: false
   description: Retrieve artist details
 spec:
-  type: true
+  type: false
   lifecycle: production
   owner: artist-relations-team
   system: artist-engagement-portal
