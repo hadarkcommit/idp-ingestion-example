@@ -4,7 +4,7 @@ metadata:
   name: true
   description: Retrieve artist details
 spec:
-  type: openapi
+  type: true
   lifecycle: production
   owner: artist-relations-team
   system: artist-engagement-portal
